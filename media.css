@@ -1,0 +1,258 @@
+@media (max-width: 1199.98px){
+    .search{
+        width: 137px;
+        font-size: 15px;
+        padding-left: 9px;   
+    }
+    nav .btn,
+    .btn1,
+    .btn2{
+        width: 120px;
+    }
+    
+    .part3 .container .row .info2 {
+        margin-top: 37px;
+    }
+    
+}
+@media (max-width: 991.98px){
+    .part1{
+        height: 550px;
+    }
+    .part1 .preview {
+        padding-top: 110px;
+      }
+    
+    .font_p{
+        font-size: 20px;
+    }
+    .font_h1{
+        font-size: 35px;
+        margin: 20px auto;
+    }
+    .font_h4{
+        font-size: 15px;
+    }
+    .search{
+        width: 120px;
+        font-size: 14px;
+        padding-left: 6px;   
+    }
+    
+    .part2 p{
+        font-size: 14px;
+    }
+    
+    .part2 .booking{
+        height: 470px;
+        width: 305px;
+      
+    }
+    
+    .part2 .booking input{
+        width: 170px;
+    }
+    .part2 .booking .btn{
+        margin: 22px auto;
+    }
+    .chef{
+        display: none;
+    }
+    .info2{
+        text-align: center;
+    }
+    .part3{
+        height: 550px;
+    }
+    
+    
+    .part4{
+        height: 550px;
+    }
+    
+    .part4 .option {
+        width: 167px;
+        height: 233px;
+    }
+    .part4 .option .log {
+        top: -24px;
+        left: 42px;
+        padding: 0px 16px;
+    }
+    
+    .part5 .container .row .dish {
+        width: 390px;
+    }
+    
+    .part5 .container .row .menu {
+        height: 450px;
+        width: 271px;
+        margin: 13px auto;
+    }
+    .part5 .container .row .dish .description hr {
+        width: 265px;
+    }
+    
+    .part5 .container .row .dish .description h4 {
+        font-size: 20px;
+    }
+    
+    .part5 .container .row .dish .description p {
+        font-size: 12px;
+    }
+    
+    .part5 .container .row .dish .description span {
+        font-size: 25px;
+        margin-bottom: 4px;
+    }
+    
+    .part5 .container .row .preview h1{
+        font-size: 37.7px;
+    }
+}
+@media (max-width: 767.98px){ 
+    
+    .part1{
+        height: 500px;
+    }
+    
+    .part1 .preview {
+        padding-top: 150px;
+    }
+    
+    nav #b1,
+    nav #b2{
+        display: none;
+    }
+    
+     
+    .part1 .buttons #b3,
+    .part1 .buttons #b4
+    {
+        display: none;
+    }
+    nav #b5{
+        display: inline;
+        height: 35px;
+    }
+    
+    .part2{
+        height: 521px;
+        text-align: center;
+        padding-top: 40px;
+    }
+    .part2 h1{
+        margin: 0 auto;
+        font-size: 40px;
+    }
+    .part2 p {
+        font-size: 10px;
+    }
+    
+    .part3 .container .row .info2 p{
+        font-size: 14px;
+    }
+    
+    .part3 .container .row .slideToogles .title h4 {
+        font-size: 20px;
+    }    
+    .part3 .container .row .slideToogles .expand p {
+        font-size: 12px;
+    }
+    
+    .part5{
+        height: 1140px;
+    }
+    
+    .part5 .container .row .preview,
+    .part5 .container .row .menu,
+    /* .part5 .container .row button,  */
+    .part5 .container .row #line {
+        display: none;
+    }
+    
+  .part5 .menu2{
+      display: flex;
+  }
+  
+  .part5 .preview2{
+      display: block;
+}
+}
+@media (max-width: 575.98px){
+    
+    .upScrollArrow{
+        opacity: .5;
+        right: 20px;
+        bottom: 20px;
+    }
+    .info ul li a{
+        left: -43px;
+    }
+    .part2{
+        height: 1000px;
+    }
+    .part2 p{
+        font-size: 13.5px;
+    }
+    .info{
+        width: 185px;
+    }
+    
+    .font_h1 {
+        font-size: 35px;
+        margin: 37px auto;
+    }
+    
+    .part2 .booking {
+        width: 305px;
+        margin-top: 28px;
+    }
+    
+    .part1 .preview {
+        padding-top: 126px;
+    }
+    nav #b5{
+        height: 33px;
+    }
+    
+    .info ul li {
+        margin-bottom: 10px;
+    }
+    .info ul li a{
+        padding: 5px 5px;
+        font-size: 14px;
+        top: 15px;
+    }
+    .part2 .booking h1 {
+        font-size: 32px;
+    }
+    
+    .part3{
+        height: 633px;
+    }
+    
+    .part4{ 
+        height: 720px;
+        padding-top: 0px;
+    }
+    
+    .part4 .option{
+        margin-top: 24px;
+    }
+    .part4 .option .log {
+        top: -40px;
+        left: 41px;
+        padding: 0px 0px 0px 0px ;
+    }
+}
+
+@media (max-width: 493.98px){
+    
+    .part5 {
+        height: 1179px;
+    }
+    .part5 .menu2 {
+        height: 172px;
+    }
+}
